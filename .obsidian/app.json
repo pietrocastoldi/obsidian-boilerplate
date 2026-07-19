@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
